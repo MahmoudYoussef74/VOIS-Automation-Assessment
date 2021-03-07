@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-07T04:15:08 EET" name="Default suite" finished-at="2021-03-07T04:16:33 EET" duration-ms="85191">
+    <groups>
+    </groups>
+    <test started-at="2021-03-07T04:15:08 EET" name="Default test" finished-at="2021-03-07T04:16:33 EET" duration-ms="85191">
+      <class name="TestClass.RegisterTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestClass.RegisterTest@38c5cc4c]" started-at="2021-03-07T04:15:08 EET" name="Setup" finished-at="2021-03-07T04:15:19 EET" duration-ms="10440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="AssertRegistration()[pri:1, instance:TestClass.RegisterTest@38c5cc4c]" started-at="2021-03-07T04:15:19 EET" name="AssertRegistration" finished-at="2021-03-07T04:15:39 EET" duration-ms="19901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssertRegistration -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:TestClass.RegisterTest@38c5cc4c]" started-at="2021-03-07T04:15:39 EET" name="quit" finished-at="2021-03-07T04:15:40 EET" duration-ms="913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestClass.RegisterTest@38c5cc4c]" started-at="2021-03-07T04:15:40 EET" name="Setup" finished-at="2021-03-07T04:15:49 EET" duration-ms="9711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="AssertLoggingCheckout()[pri:2, instance:TestClass.RegisterTest@38c5cc4c]" started-at="2021-03-07T04:15:49 EET" name="AssertLoggingCheckout" finished-at="2021-03-07T04:16:33 EET" duration-ms="43282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssertLoggingCheckout -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:TestClass.RegisterTest@38c5cc4c]" started-at="2021-03-07T04:16:33 EET" name="quit" finished-at="2021-03-07T04:16:33 EET" duration-ms="860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- TestClass.RegisterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
